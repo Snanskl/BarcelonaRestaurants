@@ -1,0 +1,1028 @@
+[
+  {
+    "name": "Grand Hotel Central",
+    "rating": 4.5,
+    "price": "N/A",
+    "address": "Via Laietana, 30, Barcelona"
+  },
+  {
+    "name": "Hotel Pulitzer",
+    "rating": 4.4,
+    "price": "N/A",
+    "address": "Carrer de Bergara, 8, Barcelona"
+  },
+  {
+    "name": "Hotel Barcelona Universal",
+    "rating": 4.4,
+    "price": "N/A",
+    "address": "Avinguda del Paral\u00b7lel, 76-80, Barcelona"
+  },
+  {
+    "name": "Thai Barcelona",
+    "rating": 4.2,
+    "price": "\u20ac\u20ac\u20ac",
+    "address": "Carrer de la Diputaci\u00f3, 273, Barcelona"
+  },
+  {
+    "name": "Hotel Constanza",
+    "rating": 4.4,
+    "price": "N/A",
+    "address": "Carrer del Bruc, 33, Barcelona"
+  },
+  {
+    "name": "Ol\u00edvia Plaza Hotel",
+    "rating": 4.6,
+    "price": "N/A",
+    "address": "Pla\u00e7a de Catalunya, 19, Barcelona"
+  },
+  {
+    "name": "Hotel Ohla Barcelona",
+    "rating": 4.6,
+    "price": "N/A",
+    "address": "Via Laietana, 49, Barcelona"
+  },
+  {
+    "name": "ICON BCN",
+    "rating": 4.5,
+    "price": "N/A",
+    "address": "Carrer de Roger de Ll\u00faria, 21, Barcelona"
+  },
+  {
+    "name": "Pizzeria Da Nanni | Born",
+    "rating": 4,
+    "price": "\u20ac\u20ac",
+    "address": "Carrer del Rec, 30, Barcelona"
+  },
+  {
+    "name": "Hotel Barcelona Catedral",
+    "rating": 4.4,
+    "price": "N/A",
+    "address": "Carrer dels Capellans, 4, Barcelona"
+  },
+  {
+    "name": "Los Caracoles",
+    "rating": 4.2,
+    "price": "\u20ac\u20ac\u20ac",
+    "address": "Carrer dels Escudellers, 14, Barcelona"
+  },
+  {
+    "name": "Hotel Roma Reial",
+    "rating": 3.7,
+    "price": "N/A",
+    "address": "Pla\u00e7a Reial, 11, Barcelona"
+  },
+  {
+    "name": "Hotel La Ciudadela",
+    "rating": 4.4,
+    "price": "N/A",
+    "address": "Passeig de Llu\u00eds Companys, 2, Barcelona"
+  },
+  {
+    "name": "Hotel Cram Barcelona",
+    "rating": 4.2,
+    "price": "\u20ac\u20ac",
+    "address": "Carrer d'Aribau, 54, Barcelona"
+  },
+  {
+    "name": "Hotel Best Auto Hogar",
+    "rating": 3.8,
+    "price": "N/A",
+    "address": "Avinguda del Paral\u00b7lel, 64, Barcelona"
+  },
+  {
+    "name": "Restaurante El Boliche del Gordo Cabrera",
+    "rating": 4.4,
+    "price": "\u20ac\u20ac",
+    "address": "Carrer del Consell de Cent, 338, Barcelona"
+  },
+  {
+    "name": "Bar Lobo",
+    "rating": 4.5,
+    "price": "\u20ac\u20ac",
+    "address": "Carrer del Pintor Fortuny, 3, Barcelona"
+  },
+  {
+    "name": "Elsa y Fred",
+    "rating": 4.5,
+    "price": "\u20ac\u20ac",
+    "address": "Carrer del Rec Comtal, 11, Barcelona"
+  },
+  {
+    "name": "Hotel Market Barcelona.",
+    "rating": 3.8,
+    "price": "N/A",
+    "address": "Carrer del Comte Borrell, 68, Barcelona"
+  },
+  {
+    "name": "Al Arabiya Restaurant & Cafe",
+    "rating": 4.8,
+    "price": "N/A",
+    "address": "Carrer dels Escudellers, 25, Barcelona"
+  },
+  {
+    "name": "Alba Granados",
+    "rating": 4.3,
+    "price": "\u20ac\u20ac\u20ac",
+    "address": "Carrer d'Enric Granados, 34, Barcelona"
+  },
+  {
+    "name": "La Carassa",
+    "rating": 4.5,
+    "price": "\u20ac\u20ac",
+    "address": "Carrer del Brosol\u00ed, 1, Barcelona"
+  },
+  {
+    "name": "El Drac de Sant Jordi",
+    "rating": 4.2,
+    "price": "N/A",
+    "address": "Pla\u00e7a de Sant Josep Oriol, 3, Barcelona"
+  },
+  {
+    "name": "La Fonda",
+    "rating": 4.4,
+    "price": "\u20ac\u20ac",
+    "address": "Carrer dels Escudellers, 10, Barcelona"
+  },
+  {
+    "name": "Flamant",
+    "rating": 4.3,
+    "price": "\u20ac\u20ac",
+    "address": "Carrer d'Enric Granados, 23, Barcelona"
+  },
+  {
+    "name": "El Nou Ramonet",
+    "rating": 4.6,
+    "price": "\u20ac\u20ac",
+    "address": "Carrer de Carbonell, 5, Barcelona"
+  },
+  {
+    "name": "Bodega La Tinaja",
+    "rating": 4.6,
+    "price": "\u20ac\u20ac",
+    "address": "Carrer de l'Esparteria, 9, Barcelona"
+  },
+  {
+    "name": "Rosa Negra (Laietana) | Mexican Restaurant",
+    "rating": 4.4,
+    "price": "\u20ac",
+    "address": "Via Laietana, 46, Barcelona"
+  },
+  {
+    "name": "Hard Rock Caf\u00e8",
+    "rating": 4.4,
+    "price": "\u20ac\u20ac",
+    "address": "Pla\u00e7a de Catalunya, 21, Barcelona"
+  },
+  {
+    "name": "F\u00e0brica Moritz Barcelona",
+    "rating": 4.3,
+    "price": "\u20ac\u20ac",
+    "address": "Ronda de Sant Antoni, 41, Barcelona"
+  },
+  {
+    "name": "Flaherty\u00b4s Irish Pub Barcelona",
+    "rating": 4.3,
+    "price": "\u20ac\u20ac",
+    "address": "Pla\u00e7a de Joaquim Xirau, s/n, Barcelona"
+  },
+  {
+    "name": "Tapas 24",
+    "rating": 3.8,
+    "price": "\u20ac\u20ac",
+    "address": "Carrer de la Diputaci\u00f3, 269, Barcelona"
+  },
+  {
+    "name": "Mandarin Oriental, Barcelona",
+    "rating": 4.7,
+    "price": "N/A",
+    "address": "Passeig de Gr\u00e0cia, 38-40, Barcelona"
+  },
+  {
+    "name": "Pura Brasa | Rambla Catalunya",
+    "rating": 4,
+    "price": "\u20ac\u20ac",
+    "address": "Rambla de Catalunya, 13, Barcelona"
+  },
+  {
+    "name": "Hotel Best Aranea",
+    "rating": 4,
+    "price": "N/A",
+    "address": "Carrer del Consell de Cent, 444, Barcelona"
+  },
+  {
+    "name": "Cuines Santa Caterina",
+    "rating": 4.1,
+    "price": "\u20ac\u20ac",
+    "address": "Mercado de Santa Caterina, Avinguda de Francesc Camb\u00f3, 16, Barcelona"
+  },
+  {
+    "name": "Riko's",
+    "rating": 4.2,
+    "price": "\u20ac",
+    "address": "Carrer de Roger de Ll\u00faria, 54, Barcelona"
+  },
+  {
+    "name": "La Dol\u00e7a Herminia",
+    "rating": 4.2,
+    "price": "\u20ac",
+    "address": "Carrer de les Magdalenes, 27, Barcelona"
+  },
+  {
+    "name": "Guanabara",
+    "rating": 4.2,
+    "price": "\u20ac\u20ac",
+    "address": "Carrer del Consell de Cent, 403, Barcelona"
+  },
+  {
+    "name": "Habana Vieja",
+    "rating": 4.6,
+    "price": "\u20ac\u20ac",
+    "address": "Carrer dels Banys Vells, 2, Barcelona"
+  },
+  {
+    "name": "La Plata",
+    "rating": 4.7,
+    "price": "\u20ac",
+    "address": "Carrer de la Merc\u00e8, 28, Barcelona"
+  },
+  {
+    "name": "Sagardi Argenteria",
+    "rating": 4.4,
+    "price": "\u20ac\u20ac",
+    "address": "Carrer de l'Argenteria, 62, Barcelona"
+  },
+  {
+    "name": "Cerveceria Catalana",
+    "rating": 4.4,
+    "price": "\u20ac\u20ac",
+    "address": "Carrer de Mallorca, 236, Barcelona"
+  },
+  {
+    "name": "Ca La Nuri Eixample",
+    "rating": 4.2,
+    "price": "\u20ac\u20ac",
+    "address": "Carrer del Consell de Cent, 377, Barcelona"
+  },
+  {
+    "name": "El Pintor",
+    "rating": 4.2,
+    "price": "\u20ac\u20ac",
+    "address": "Carrer de Sant Honorat, 7, Barcelona"
+  },
+  {
+    "name": "Merendero de la Mari",
+    "rating": 4.1,
+    "price": "\u20ac\u20ac\u20ac",
+    "address": "Pla\u00e7a de Pau Vila, 1, Barcelona"
+  },
+  {
+    "name": "Els 4 Gats",
+    "rating": 4.1,
+    "price": "\u20ac\u20ac\u20ac",
+    "address": "Carrer de Montsi\u00f3, 3, Barcelona"
+  },
+  {
+    "name": "Blanc",
+    "rating": 4.2,
+    "price": "N/A",
+    "address": "Passeig de Gr\u00e0cia, 38-40, Barcelona"
+  },
+  {
+    "name": "Sagardi Muntaner",
+    "rating": 4.3,
+    "price": "\u20ac\u20ac",
+    "address": "Carrer de Muntaner, 72, Barcelona"
+  },
+  {
+    "name": "ATN restaurant",
+    "rating": 4,
+    "price": "\u20ac\u20ac",
+    "address": "Carrer de la Canuda, 6, Barcelona"
+  },
+  {
+    "name": "Puertecillo Born",
+    "rating": 4.5,
+    "price": "\u20ac\u20ac",
+    "address": "Carrer Comercial, 7, Barcelona"
+  },
+  {
+    "name": "Federal Caf\u00e8 Sant Antoni",
+    "rating": 4,
+    "price": "\u20ac\u20ac",
+    "address": "Carrer del Parlament, 39, Barcelona"
+  },
+  {
+    "name": "Els Ocellets",
+    "rating": 4.4,
+    "price": "\u20ac\u20ac",
+    "address": "Ronda de Sant Pau, 55, Barcelona"
+  },
+  {
+    "name": "El Quim de la Boqueria",
+    "rating": 4.6,
+    "price": "\u20ac\u20ac",
+    "address": "Mercado de La Boqueria, La Rambla, 91, Barcelona"
+  },
+  {
+    "name": "Tablao Flamenco Cordobes | Barcelona",
+    "rating": 4.7,
+    "price": "\u20ac\u20ac\u20ac",
+    "address": "La Rambla, 35, Barcelona"
+  },
+  {
+    "name": "Shunka",
+    "rating": 4.7,
+    "price": "\u20ac\u20ac\u20ac",
+    "address": "Carrer dels Sagristans, 5, Barcelona"
+  },
+  {
+    "name": "Tactic Surf Shop X SEA YOU",
+    "rating": 4.5,
+    "price": "N/A",
+    "address": "Carrer d'Enric Granados, 11, Barcelona"
+  },
+  {
+    "name": "Taller de Tapas",
+    "rating": 4.6,
+    "price": "\u20ac\u20ac",
+    "address": "Pla\u00e7a de Sant Josep Oriol, 9, Barcelona"
+  },
+  {
+    "name": "Hanoi Restaurant",
+    "rating": 4.3,
+    "price": "\u20ac\u20ac",
+    "address": "Pla\u00e7a del Doctor Letamendi, 27, Barcelona"
+  },
+  {
+    "name": "Restaurant Can Culleretes",
+    "rating": 4.3,
+    "price": "\u20ac\u20ac",
+    "address": "Carrer d'en Quintana, 5, Barcelona"
+  },
+  {
+    "name": "Hotel Hesperia Presidente Barcelona",
+    "rating": 4.5,
+    "price": "N/A",
+    "address": "Avinguda Diagonal, 570, Barcelona"
+  },
+  {
+    "name": "T\u00e0mara | Barcelona",
+    "rating": 4,
+    "price": "\u20ac\u20ac",
+    "address": "Carrer de Muntaner, 178, Barcelona"
+  },
+  {
+    "name": "El Cangrejo Loco | Eixample",
+    "rating": 4.2,
+    "price": "\u20ac\u20ac",
+    "address": "Carrer d'Aribau, 115, Barcelona"
+  },
+  {
+    "name": "Hotel Guitart Grand Passage",
+    "rating": 4.1,
+    "price": "N/A",
+    "address": "Carrer de Muntaner, 212, Barcelona"
+  },
+  {
+    "name": "La Vietnamita | Gr\u00e0cia",
+    "rating": 4.3,
+    "price": "\u20ac\u20ac",
+    "address": "Carrer del Torrent de l'Olla, 78, Barcelona"
+  },
+  {
+    "name": "Sunotel Aston, Barcelona",
+    "rating": 3.7,
+    "price": "N/A",
+    "address": "Carrer de Par\u00eds, 101-107, Barcelona"
+  },
+  {
+    "name": "Gusto Restaurant",
+    "rating": 4.7,
+    "price": "\u20ac\u20ac",
+    "address": "Carrer del Rossell\u00f3, 108, Barcelona"
+  },
+  {
+    "name": "Antic villarroel",
+    "rating": 4.2,
+    "price": "\u20ac\u20ac",
+    "address": "Carrer de Villarroel, 182, Barcelona"
+  },
+  {
+    "name": "Con Gracia",
+    "rating": 4.8,
+    "price": "\u20ac\u20ac\u20ac",
+    "address": "Carrer de Mart\u00ednez de la Rosa, 8, Barcelona"
+  },
+  {
+    "name": "Restaurante La Tata",
+    "rating": 4.4,
+    "price": "\u20ac\u20ac",
+    "address": "Carrer de Cal\u00e0bria, 69, Barcelona"
+  },
+  {
+    "name": "Casual Colours Barcelona",
+    "rating": 4.1,
+    "price": "N/A",
+    "address": "Avinguda de Josep Tarradellas, 119, Barcelona"
+  },
+  {
+    "name": "CHICAGO'S PIZZA FACTORY",
+    "rating": 4.5,
+    "price": "N/A",
+    "address": "Carrer d'Alfons XII, 15, Barcelona"
+  },
+  {
+    "name": "ELJ APO N\u00c9S",
+    "rating": 4.3,
+    "price": "\u20ac\u20ac",
+    "address": "Passatge de la Concepci\u00f3, 5, Barcelona"
+  },
+  {
+    "name": "Restaurant Vietnamita Casa de Sam",
+    "rating": 4.4,
+    "price": "\u20ac",
+    "address": "Carrer de Cal\u00e0bria, 234, Bajos, Barcelona"
+  },
+  {
+    "name": "Bopan",
+    "rating": 3.8,
+    "price": "\u20ac\u20ac",
+    "address": "Travessera de Gr\u00e0cia, 64, Barcelona"
+  },
+  {
+    "name": "Restaurant Windsor",
+    "rating": 4.5,
+    "price": "\u20ac\u20ac\u20ac",
+    "address": "Carrer de C\u00f2rsega, 286, Barcelona"
+  },
+  {
+    "name": "Tragaluz",
+    "rating": 4.2,
+    "price": "\u20ac\u20ac\u20ac",
+    "address": "Passatge de la Concepci\u00f3, 5, Barcelona"
+  },
+  {
+    "name": "La Caleta de Gr\u00e0cia",
+    "rating": 4.4,
+    "price": "\u20ac",
+    "address": "Carrer del Torrent de l'Olla, 121, Barcelona"
+  },
+  {
+    "name": "Balthazar",
+    "rating": 4.4,
+    "price": "\u20ac\u20ac",
+    "address": "Carrer del Rossell\u00f3, 189, Barcelona"
+  },
+  {
+    "name": "Kibuka | Gr\u00e0cia",
+    "rating": 4.4,
+    "price": "\u20ac\u20ac",
+    "address": "Calle de Goya, 9, Barcelona"
+  },
+  {
+    "name": "Can Xurrades",
+    "rating": 4.5,
+    "price": "\u20ac\u20ac\u20ac",
+    "address": "Carrer de Casanova, 212, Barcelona"
+  },
+  {
+    "name": "Restaurant Jard\u00ed de l'\u00c0nima",
+    "rating": 4.2,
+    "price": "N/A",
+    "address": "Calle de Mallorca, 271, Barcelona"
+  },
+  {
+    "name": "Boca Grande",
+    "rating": 4.1,
+    "price": "\u20ac\u20ac\u20ac",
+    "address": "Passatge de la Concepci\u00f3, 12, Barcelona"
+  },
+  {
+    "name": "Volubilis Restaurant",
+    "rating": 4.4,
+    "price": "\u20ac\u20ac",
+    "address": "Carrer de Tamarit, 151, Barcelona"
+  },
+  {
+    "name": "9Reinas | Diagonal",
+    "rating": 4.6,
+    "price": "\u20ac\u20ac\u20ac",
+    "address": "Carrer de Val\u00e8ncia, 267, Barcelona"
+  },
+  {
+    "name": "Bar Mut",
+    "rating": 4.1,
+    "price": "\u20ac\u20ac\u20ac",
+    "address": "Carrer de Pau Claris, 192, Barcelona"
+  },
+  {
+    "name": "El Bierzo a Tope",
+    "rating": 4.1,
+    "price": "\u20ac",
+    "address": "Carrer de la Diputaci\u00f3, 159, Barcelona"
+  },
+  {
+    "name": "Maitea | Casanova",
+    "rating": 4.3,
+    "price": "\u20ac\u20ac",
+    "address": "Carrer de Casanova, 155, Barcelona"
+  },
+  {
+    "name": "Txapela | Passeig de Gr\u00e0cia",
+    "rating": 3.9,
+    "price": "\u20ac\u20ac",
+    "address": "Passeig de Gr\u00e0cia, 58, Barcelona"
+  },
+  {
+    "name": "Hotel Miramar Barcelona",
+    "rating": 4.3,
+    "price": "N/A",
+    "address": "Pla\u00e7a de Carlos Ib\u00e1\u00f1ez, 3, Barcelona"
+  },
+  {
+    "name": "Xup Xup Restaurant",
+    "rating": 4.3,
+    "price": "\u20ac\u20ac",
+    "address": "Passeig Mar\u00edtim de la Barceloneta, s/n, Barcelona"
+  },
+  {
+    "name": "Barro",
+    "rating": 3.5,
+    "price": "\u20ac\u20ac",
+    "address": "Carrer de la Vila Joiosa, 52, Barcelona"
+  },
+  {
+    "name": "El Xalet de Montju\u00efc",
+    "rating": 4.1,
+    "price": "\u20ac\u20ac\u20ac",
+    "address": "Avinguda Miramar, 31, Barcelona"
+  },
+  {
+    "name": "La Fonda del Port Ol\u00edmpic",
+    "rating": 4.2,
+    "price": "\u20ac\u20ac",
+    "address": "Carrer de Pepe Rubianes, 34, Barcelona"
+  },
+  {
+    "name": "Barceloneta restaurant",
+    "rating": 4.4,
+    "price": "\u20ac\u20ac\u20ac",
+    "address": "Moll dels Pescador, Port Vell, Carrer de l'Escar, 22, Barcelona"
+  },
+  {
+    "name": "Can Ramonet",
+    "rating": 4.3,
+    "price": "\u20ac\u20ac",
+    "address": "Carrer de la Maquinista, 17, Barcelona"
+  },
+  {
+    "name": "Grums Hotel & Spa",
+    "rating": 4.1,
+    "price": "N/A",
+    "address": "Carrer de Palaud\u00e0ries, 26, Barcelona"
+  },
+  {
+    "name": "ACQUA&FARINA",
+    "rating": 4.5,
+    "price": "\u20ac",
+    "address": "Carrer de la Maquinista, 52, Barcelona"
+  },
+  {
+    "name": "Les Quinze Nits",
+    "rating": 4.2,
+    "price": "\u20ac\u20ac",
+    "address": "Pla\u00e7a Reial, 6, Barcelona"
+  },
+  {
+    "name": "Pez Vela",
+    "rating": 4.1,
+    "price": "\u20ac\u20ac\u20ac",
+    "address": "Passeig del Mare Nostrum, 19, 21, Barcelona"
+  },
+  {
+    "name": "El Xampanyet",
+    "rating": 4.7,
+    "price": "\u20ac\u20ac",
+    "address": "Carrer de Montcada, 22, Barcelona"
+  },
+  {
+    "name": "Cal Pep",
+    "rating": 4.4,
+    "price": "\u20ac\u20ac\u20ac",
+    "address": "Pla\u00e7a de les Olles, 8, Barcelona"
+  },
+  {
+    "name": "Oca\u00f1a",
+    "rating": 4.6,
+    "price": "\u20ac\u20ac",
+    "address": "Pla\u00e7a Reial, 13-15, Barcelona"
+  },
+  {
+    "name": "Mi Burrito y Yo",
+    "rating": 4.1,
+    "price": "\u20ac\u20ac",
+    "address": "Carrer del Pas de l'Ensenyan\u00e7a, 2, Barcelona"
+  },
+  {
+    "name": "Irati Taverna Basca",
+    "rating": 4.5,
+    "price": "\u20ac\u20ac",
+    "address": "Carrer del Cardenal Casa\u00f1as, 17, Barcelona"
+  },
+  {
+    "name": "Cera 23",
+    "rating": 4.8,
+    "price": "\u20ac\u20ac",
+    "address": "Carrer de la Cera, 23, Barcelona"
+  },
+  {
+    "name": "Suculent",
+    "rating": 4.5,
+    "price": "\u20ac\u20ac\u20ac",
+    "address": "Rambla del Raval, 45, Barcelona"
+  },
+  {
+    "name": "La Mar Salada Restaurant",
+    "rating": 4.3,
+    "price": "\u20ac\u20ac",
+    "address": "Passeig de Joan de Borb\u00f3, 58, 59, Barcelona"
+  },
+  {
+    "name": "El Bosc de Les Fades",
+    "rating": 4.4,
+    "price": "\u20ac\u20ac",
+    "address": "Passatge de la Banca, 7, Barcelona"
+  },
+  {
+    "name": "Quimet & Quimet",
+    "rating": 4.6,
+    "price": "\u20ac\u20ac",
+    "address": "Carrer del Poeta Cabanyes, 25, Barcelona"
+  },
+  {
+    "name": "La Cova Fumada",
+    "rating": 4.6,
+    "price": "\u20ac\u20ac",
+    "address": "Carrer del Baluard, 56, Barcelona"
+  },
+  {
+    "name": "Taller de Tapes | Born",
+    "rating": 4.5,
+    "price": "\u20ac\u20ac",
+    "address": "Carrer de l'Argenteria, 51, Barcelona"
+  },
+  {
+    "name": "Restaurant Can Ros",
+    "rating": 4.4,
+    "price": "\u20ac\u20ac",
+    "address": "C/ d'Em\u00edlia Llorca Mart\u00edn 7, Carrer d'Em\u00edlia Llorca Mart\u00edn, 7, Barcelona"
+  },
+  {
+    "name": "Euskal Etxea Taberna",
+    "rating": 4.2,
+    "price": "\u20ac\u20ac",
+    "address": "Placeta de Montcada, 1, Barcelona"
+  },
+  {
+    "name": "Sall\u00e9s Hotel Pere IV",
+    "rating": 4,
+    "price": "N/A",
+    "address": "Carrer de Pallars, 128, Barcelona"
+  },
+  {
+    "name": "Hotel Best 4 Barcelona",
+    "rating": 4,
+    "price": "N/A",
+    "address": "Carrer del Doctor Trueta, 164, Barcelona"
+  },
+  {
+    "name": "Hotel ILUNION Barcelona",
+    "rating": 4.2,
+    "price": "N/A",
+    "address": "Carrer de Ramon Turr\u00f3, 196, 198, Barcelona"
+  },
+  {
+    "name": "Palau de Xina",
+    "rating": 3.6,
+    "price": "\u20ac",
+    "address": "Carrer de la Marina, 87, Barcelona"
+  },
+  {
+    "name": "Bona Sort Sushi",
+    "rating": 4.2,
+    "price": "\u20ac",
+    "address": "Carrer de la Marina, 191, Barcelona"
+  },
+  {
+    "name": "L'Escamarl\u00e0",
+    "rating": 3.8,
+    "price": "\u20ac\u20ac",
+    "address": "Passeig Mar\u00edtim del Bogatell, 40, Barcelona"
+  },
+  {
+    "name": "Els Porxos | Seafood & Mediterranean Restaurant en Sagrada Fam\u00edlia",
+    "rating": 4.3,
+    "price": "N/A",
+    "address": "Carrer de Mallorca, 410, Eixample"
+  },
+  {
+    "name": "Rac\u00f3 de la Vila",
+    "rating": 4.3,
+    "price": "\u20ac\u20ac",
+    "address": "Carrer de la Ciutat de Granada, 33, Barcelona"
+  },
+  {
+    "name": "Ginos",
+    "rating": 4.2,
+    "price": "\u20ac\u20ac",
+    "address": "CC Gl\u00f2ries, Avinguda Diagonal, 220, Barcelona"
+  },
+  {
+    "name": "Chen Ji",
+    "rating": 4.3,
+    "price": "\u20ac",
+    "address": "Carrer d'Al\u00ed Bei, 65, Barcelona"
+  },
+  {
+    "name": "Bardeni el meatbar - Caldeni",
+    "rating": 4.6,
+    "price": "\u20ac\u20ac\u20ac",
+    "address": "Carrer de Val\u00e8ncia, 454, Barcelona"
+  },
+  {
+    "name": "La Mar Bella",
+    "rating": 3.9,
+    "price": "\u20ac",
+    "address": "Carrer del Taulat, 81, Barcelona"
+  },
+  {
+    "name": "L'Ovella Negra | Marina",
+    "rating": 4.2,
+    "price": "\u20ac",
+    "address": "Carrer de Zamora, 78, Barcelona"
+  },
+  {
+    "name": "Foster's Hollywood | Gl\u00f2ries",
+    "rating": 4.4,
+    "price": "\u20ac\u20ac",
+    "address": "Centro comercial Glories, Avinguda Diagonal, 208, Barcelona"
+  },
+  {
+    "name": "Aguaribay",
+    "rating": 4.4,
+    "price": "\u20ac\u20ac",
+    "address": "Carrer de Galceran Marquet, 1, Barcelona"
+  },
+  {
+    "name": "Antonio's",
+    "rating": 4.6,
+    "price": "\u20ac",
+    "address": "Carrer de Badajoz, 44, bajos, Barcelona"
+  },
+  {
+    "name": "Els Tres Porquets",
+    "rating": 4.4,
+    "price": "\u20ac\u20ac\u20ac",
+    "address": "Rambla del Poblenou, 165, Barcelona"
+  },
+  {
+    "name": "Els \"Pollos\" de Llull | Sant Mart\u00ed",
+    "rating": 4,
+    "price": "\u20ac",
+    "address": "Carrer de Ramon Turr\u00f3, 13, Barcelona"
+  },
+  {
+    "name": "Las Ma\u00f1anitas",
+    "rating": 4.3,
+    "price": "\u20ac\u20ac",
+    "address": "Gran Via de les Corts Catalanes, 715, Barcelona"
+  },
+  {
+    "name": "Restaurant Xin\u00e8s",
+    "rating": 4.4,
+    "price": "\u20ac",
+    "address": "Avinguda Diagonal, 145, Barcelona"
+  },
+  {
+    "name": "Burger King",
+    "rating": 3.3,
+    "price": "\u20ac",
+    "address": "Avinguda Diagonal, 208, Barcelona"
+  },
+  {
+    "name": "Restaurant Parrilla Alfonsina",
+    "rating": 4.6,
+    "price": "\u20ac\u20ac",
+    "address": "Carrer de la Diputaci\u00f3, 379, Barcelona"
+  },
+  {
+    "name": "Melocomo - Osteria188",
+    "rating": 4.6,
+    "price": "\u20ac\u20ac",
+    "address": "Carrer de Pujades, 188, Barcelona"
+  },
+  {
+    "name": "Sonora Sport Tavern",
+    "rating": 4.2,
+    "price": "\u20ac",
+    "address": "Carrer de Pamplona, 96, Barcelona"
+  },
+  {
+    "name": "Bar Refugio Los 33",
+    "rating": 4.4,
+    "price": "\u20ac",
+    "address": "Pla\u00e7a del Mercat, 19, Barcelona"
+  },
+  {
+    "name": "Virona Restaurant - Pizzeria - Fusion Kitchen",
+    "rating": 4.2,
+    "price": "\u20ac",
+    "address": "Carrer de la Diputaci\u00f3, 381, Barcelona"
+  },
+  {
+    "name": "Can Pineda",
+    "rating": 4.6,
+    "price": "\u20ac\u20ac\u20ac",
+    "address": "Carrer de Sant Joan de Malta, 55, Barcelona"
+  },
+  {
+    "name": "Gorr\u00eda Restaurant",
+    "rating": 4.6,
+    "price": "\u20ac\u20ac\u20ac",
+    "address": "Carrer de la Diputaci\u00f3, 421, Barcelona"
+  },
+  {
+    "name": "Nakashita Born",
+    "rating": 4.2,
+    "price": "\u20ac\u20ac",
+    "address": "Carrer del Rec Comtal, 15, Barcelona"
+  },
+  {
+    "name": "Picnic",
+    "rating": 4.4,
+    "price": "\u20ac\u20ac",
+    "address": "Carrer del Comer\u00e7, 1, Barcelona"
+  },
+  {
+    "name": "Els Pescadors de Barcelona - Restaurante de Alta Cocina Marinera",
+    "rating": 4,
+    "price": "\u20ac\u20ac\u20ac",
+    "address": "Pla\u00e7a de Prim, 1, Barcelona"
+  },
+  {
+    "name": "KFC",
+    "rating": 4.2,
+    "price": "\u20ac",
+    "address": "Avinguda de Gaud\u00ed, 2, Barcelona"
+  },
+  {
+    "name": "Starbucks Barcelona Sagrada familia",
+    "rating": 3.6,
+    "price": "\u20ac\u20ac",
+    "address": "Pla\u00e7a de la Sagrada Fam\u00edlia, 19, Barcelona"
+  },
+  {
+    "name": "Neko Sushi Pujades Take-away & Delivery",
+    "rating": 4.6,
+    "price": "N/A",
+    "address": "Carrer de Pujades, 121, Barcelona"
+  },
+  {
+    "name": "UDON Gl\u00f2ries",
+    "rating": 4.1,
+    "price": "\u20ac\u20ac",
+    "address": "Westfield Gl\u00f2ries, Avenida Diagonal, 208, C.C, Barcelona"
+  },
+  {
+    "name": "McDonald's",
+    "rating": 3.5,
+    "price": "\u20ac",
+    "address": "Carrer de Proven\u00e7a, 427, 431, Barcelona"
+  },
+  {
+    "name": "Xiringuito Escrib\u00e0",
+    "rating": 4.2,
+    "price": "\u20ac\u20ac\u20ac",
+    "address": "Avinguda del Litoral, 62, Barcelona"
+  },
+  {
+    "name": "4uatre LOUNGE",
+    "rating": 4.2,
+    "price": "\u20ac\u20ac",
+    "address": "Rambla del Poblenou, 63, Barcelona"
+  },
+  {
+    "name": "Michael Collins",
+    "rating": 4.2,
+    "price": "\u20ac\u20ac",
+    "address": "Pla\u00e7a de la Sagrada Fam\u00edlia, 4, Barcelona"
+  },
+  {
+    "name": "Restaurant Prince a la Turca - HALAL FOOD",
+    "rating": 4,
+    "price": "\u20ac",
+    "address": "Carrer de la Marina, 66, Barcelona"
+  },
+  {
+    "name": "La Bona Pinta",
+    "rating": 4.5,
+    "price": "\u20ac\u20ac",
+    "address": "Carrer de la Diputaci\u00f3, 433, Barcelona"
+  },
+  {
+    "name": "Dune Taperia",
+    "rating": 4.2,
+    "price": "\u20ac",
+    "address": "Calle de Sic\u00edlia, 111, Barcelona"
+  },
+  {
+    "name": "Restaurant Can Tuchana S.L.",
+    "rating": 4,
+    "price": "N/A",
+    "address": "Carrer de la Ciutat de Granada, 33, Barcelona"
+  },
+  {
+    "name": "Restaurante Jamoner\u00eda Exquisita",
+    "rating": 4.4,
+    "price": "\u20ac",
+    "address": "Carrer de Padilla, 215, Barcelona"
+  },
+  {
+    "name": "Restaurant Cafeteria Jard\u00ed",
+    "rating": 4.3,
+    "price": "\u20ac",
+    "address": "Carrer de Cartagena, 217, Barcelona"
+  },
+  {
+    "name": "Diam\u00e0ntic",
+    "rating": 3.9,
+    "price": "\u20ac",
+    "address": "Carrer de T\u00e0nger, 54, Barcelona"
+  },
+  {
+    "name": "Mare Meva",
+    "rating": 4.6,
+    "price": "\u20ac",
+    "address": "Carrer de Bol\u00edvia, 31, Barcelona"
+  },
+  {
+    "name": "Sauleda Pastissers",
+    "rating": 4,
+    "price": "N/A",
+    "address": "Pla\u00e7a de les Gl\u00f2ries Catalanes, 38, Barcelona"
+  },
+  {
+    "name": "Restaurant Rebeka",
+    "rating": 4.3,
+    "price": "\u20ac\u20ac",
+    "address": "Carrer dels Almog\u00e0vers, 107, Barcelona"
+  },
+  {
+    "name": "El Mirall Dels Encants",
+    "rating": 3.7,
+    "price": "\u20ac",
+    "address": "Carrer de los Castillejos, 158, Barcelona"
+  },
+  {
+    "name": "el rei del kebab",
+    "rating": 3.5,
+    "price": "\u20ac",
+    "address": "Carrer de Pere IV, 100, Barcelona"
+  },
+  {
+    "name": "Wapa Tapes i Restaurant",
+    "rating": 4,
+    "price": "\u20ac",
+    "address": "Avinguda Diagonal, 203, Barcelona"
+  },
+  {
+    "name": "Cuina del mercat",
+    "rating": 4.3,
+    "price": "N/A",
+    "address": "Avenida Diagonal 201, (Entrada por Ciutat de Granada), Avinguda Diagonal, 201, Barcelona"
+  },
+  {
+    "name": "Die Spiegel",
+    "rating": 4,
+    "price": "\u20ac",
+    "address": "Carrer de Pere IV, 117, Barcelona"
+  },
+  {
+    "name": "Cata de Catacroquet",
+    "rating": 4.2,
+    "price": "\u20ac\u20ac",
+    "address": "Carrer dels Almog\u00e0vers, 211, Barcelona"
+  },
+  {
+    "name": "McDonald's",
+    "rating": 3.6,
+    "price": "\u20ac",
+    "address": "Les Glories, Avenida Diagonal, 188 Centro Comercial, Local 201, Barcelona"
+  },
+  {
+    "name": "La Mossegada",
+    "rating": 4,
+    "price": "\u20ac",
+    "address": "Carrer de Roc Boronat, 92, Barcelona"
+  }
+]
